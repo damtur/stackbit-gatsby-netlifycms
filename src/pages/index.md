@@ -18,7 +18,7 @@ intro_actions:
   - label: THIS is a third link
     url: 'https://www.google.co.uk'
     style: secondary
-    icon_class: vimeo
+    icon_class: dev
     new_window: false
     no_follow: false
     type: action
