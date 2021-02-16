@@ -5,7 +5,7 @@
     "header": {
         "type": "header",
         "title": "Ampersand",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/4.jpg",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
         "nav_links": [
