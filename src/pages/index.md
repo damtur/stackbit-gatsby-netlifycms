@@ -15,7 +15,7 @@ intro_actions:
     label: Contact
     url: /contact
     style: secondary
-  - label: lorem-ipsum
+  - label: THIS is a third link
     url: lorem-ipsum
     style: link
     icon_class: dev
