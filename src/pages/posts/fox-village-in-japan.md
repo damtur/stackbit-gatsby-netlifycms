@@ -3,7 +3,7 @@ title: Fox Village In Japan
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
-date: '2018-01-11'
+date: '2018-01-25'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
