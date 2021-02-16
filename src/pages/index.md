@@ -17,7 +17,7 @@ intro_actions:
     style: secondary
   - label: THIS is a third link
     url: 'https://www.google.co.uk'
-    style: link
+    style: secondary
     icon_class: dev
     new_window: false
     no_follow: false
