@@ -20,7 +20,7 @@ intro_actions:
     style: secondary
     icon_class: dev
     new_window: true
-    no_follow: false
+    no_follow: true
     type: action
 has_more_link: true
 more_link_text: Read more
