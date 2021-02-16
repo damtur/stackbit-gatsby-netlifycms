@@ -16,7 +16,7 @@ intro_actions:
     url: /contact
     style: secondary
   - label: THIS is a third link
-    url: lorem-ipsum
+    url: 'https://www.google.co.uk'
     style: link
     icon_class: dev
     new_window: false
